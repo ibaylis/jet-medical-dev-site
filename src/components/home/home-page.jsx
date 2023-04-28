@@ -48,7 +48,7 @@ const homePage = ({data}) => {
 
       <div className='contentArea'>
         {/* <p className='contentHeading'>Welcome</p> */}
-        <span className='contentCopy'>JetMedical<sup>®</sup> develops, manufactures, markets and supports cutting-edge vascular access devices and accessories to meet the clinical needs of the medical industry, particularly in the fields of interventional medicine and dialysis. Our company&apos;s engineering and applications expertise provides superior products whose progressive designs accommodate advances in medicine and whose quality anticipates the requirements of our professional clients and the patients they serve. Currently one of the world&apos;s largest manufacturers of dialysis and centrally terminating venous catheters, Medcomp is, and always has been, on the cutting edge of new vascular access device technologies.</span>
+        <span className='contentCopy'>Test JetMedical<sup>®</sup> develops, manufactures, markets and supports cutting-edge vascular access devices and accessories to meet the clinical needs of the medical industry, particularly in the fields of interventional medicine and dialysis. Our company&apos;s engineering and applications expertise provides superior products whose progressive designs accommodate advances in medicine and whose quality anticipates the requirements of our professional clients and the patients they serve. Currently one of the world&apos;s largest manufacturers of dialysis and centrally terminating venous catheters, Medcomp is, and always has been, on the cutting edge of new vascular access device technologies.</span>
       </div>
         <div className='contentHeadingProduct'>Product Lines</div>
         <div className='home_body'>
