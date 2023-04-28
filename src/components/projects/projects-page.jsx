@@ -2,7 +2,7 @@ import React from 'react'
 import Image from 'next/image';
 import Link from 'next/link';
 
-import projectPageHeader from "../public/images/phone_contact_icon.svg";
+// import projectPageHeader from "../public/images/phone_contact_icon.svg";
 
 const AllEvents = ({data}) => {
   return (
